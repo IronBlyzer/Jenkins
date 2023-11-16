@@ -18,6 +18,9 @@ Script: Bash
 
 Lien Github: [Repository](https://github.com/IronBlyzer/Jenkins.git)
 
+## Utilisation
+
+bash script.sh nom_utilisateur mdp_utilisateur
     
 ## Authors
 
