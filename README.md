@@ -24,7 +24,7 @@ bash script.sh nom_utilisateur mdp_utilisateur
     
 ## Authors
 
-- [Boris KOVACHEV](https://www.github.com/octokatherine)
+- [Boris KOVACHEV](https://github.com/BK200211)
 
 - [Adrien MISSONIER](https://www.github.com/IronBlyzer)
 
